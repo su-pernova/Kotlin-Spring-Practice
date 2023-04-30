@@ -69,5 +69,4 @@ class GetApiController {
         return phoneNumber
     }
 
-
 }

@@ -32,5 +32,4 @@ class PostApiController {
         return userRequest // Response : object -> json
     }
 
-
 }

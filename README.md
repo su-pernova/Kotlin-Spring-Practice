@@ -1,2 +1,2 @@
 # Kotlin Spring Practice
-Kotlin Spring Practice Repository
+Kotlin Spring Practice
